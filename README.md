@@ -1,1 +1,1 @@
-# InvestInMe
+InvestInMe is an efficient Solidity smart contract that enables users to make donations by sending funds to the contract, with a minimum contribution of 20 GBP. This contract incorporates Chainlink to provide real-time GBP-to-Ethereum exchange rate information.
